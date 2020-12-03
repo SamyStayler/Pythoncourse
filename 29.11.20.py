@@ -23,12 +23,7 @@ else:
 
 x = 41
 if x % 2 == 0:
-    print('x is even')
-else:
-    print('x is odd')
-print('Some text')
-
-user_input = input('Input something')
+    prut something')
 if user_input == 'Hello':
     print('Hello! Nice to meet you!')
 
